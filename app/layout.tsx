@@ -9,7 +9,7 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "Palm Real Estate - Finance & Installment Management",
   description: "Comprehensive finance and installment management system for Palm Real Estate",
-  generator: "v0.app",
+  generator: "Daka Marketing",
 }
 
 export default function RootLayout({
